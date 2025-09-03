@@ -4,7 +4,7 @@ Bem-vindo(a) ao repositório do projeto de **Análise de Dados para uma Imobili�
 Este trabalho acadêmico simula um fluxo completo de **Business Intelligence (BI)** — desde a modelagem do banco de dados até a criação de dashboards interativos — para apoiar a tomada de decisões estratégicas no setor imobiliário.
 
 <p align="center">
-  <img src="./assets/imobi.jpg" alt="Análise Imobiliária" width="600">
+  <img src="./assets/Imobi.jpg" alt="Análise Imobiliária" width="600">
 </p>
 
 ---
@@ -37,10 +37,10 @@ Os dashboards foram desenvolvidos para responder a questões estratégicas, como
 ## Apresentação do Projeto 🎨
 
 A análise completa e os principais insights foram organizados em uma apresentação visual no Canva. Veja abaixo uma prévia:  
-
+  
 <p align="center">
   <a href="https://www.canva.com/design/DAGx9Cn7hrg/AGNVKajCnK5-a5M0JpjcXQ/view?utm_content=DAGx9Cn7hrg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08244fb192" target="_blank">
-    <img src="./assets/imobi_dash.jpg" alt="Slide da apresentação final do projeto" width="700">
+    <img src="./assets/Imobi_dash.jpg" alt="Slide da apresentação final do projeto" width="700">
   </a>
 </p>
 
