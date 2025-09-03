@@ -66,6 +66,8 @@ A análise completa e os principais insights foram organizados em uma apresenta�
 ---
 
 ## Estrutura do Repositório 📁
+
+```plaintext
 /PROJETO_STARTUP
 ├── 📂 assets/
 │   ├── 🖼️ imobi.jpg
@@ -73,11 +75,9 @@ A análise completa e os principais insights foram organizados em uma apresenta�
 ├── 📂 dashboards/
 │   ├── 📄 dashpowerbi.pdf
 │   └── 📄 dashpowerbi_2.pdf
-├── 📂 database/
+├── 📂 banco_de_dados/
 │   ├── 📜 dados_dos_clientes.sql
 │   └── 📜 tabelas_do_banco.sql
-├── 📂 diagram/
+├── 📂 diagrama/
 │   └── 📄 der.pdf
 └── 📄 README.md
-
-
