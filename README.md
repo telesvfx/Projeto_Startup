@@ -37,7 +37,7 @@ Os dashboards foram desenvolvidos para responder a questões estratégicas, como
 ## Apresentação do Projeto 🎨
 
 A análise completa e os principais insights foram organizados em uma apresentação visual no Canva. Veja abaixo uma prévia:  
-  
+
 <p align="center">
   <a href="https://www.canva.com/design/DAGx9Cn7hrg/AGNVKajCnK5-a5M0JpjcXQ/view?utm_content=DAGx9Cn7hrg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08244fb192" target="_blank">
     <img src="./assets/Imobi_dash.jpg" alt="Slide da apresentação final do projeto" width="700">
@@ -61,7 +61,7 @@ A análise completa e os principais insights foram organizados em uma apresenta�
 - **Business Intelligence e Visualização:**  
   - Microsoft Power BI  
 - **Apresentação:**  
-  - Canva  
+  - Canva. 
 
 ---
 
