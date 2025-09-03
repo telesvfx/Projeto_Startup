@@ -22,22 +22,26 @@ Este projeto foi desenvolvido com o objetivo de aplicar conceitos de modelagem d
 
 Os dashboards desenvolvidos buscam responder a diversas perguntas estratégicas para a gestão da imobiliária, como:
 
--   [cite_start]Qual o tipo de imóvel mais vendido, mais alugado e o que está mais tempo disponível? [cite: 227, 228, 235]
--   [cite_start]Qual região da cidade possui os imóveis com a média de preço mais elevada? [cite: 292]
--   [cite_start]Qual é o corretor que efetivou o maior volume de receita em vendas e aluguéis? [cite: 62]
--   [cite_start]Qual o perfil de imóvel (quantidade de quartos) mais comum para venda? [cite: 310]
--   [cite_start]Qual foi o plano de anúncio mais utilizado e qual deles gera mais conversões (vendas/aluguéis)? [cite: 264, 273, 281]
--   [cite_start]Qual é a forma de pagamento mais comum para a compra de imóveis? [cite: 67, 196]
+-  Qual o tipo de imóvel mais vendido, mais alugado e o que está mais tempo disponível? 
 
+-  Qual região da cidade possui os imóveis com a média de preço mais elevada? 
+
+-   Qual é o corretor que efetivou o maior volume de receita em vendas e aluguéis? 
+
+-   Qual o perfil de imóvel (quantidade de quartos) mais comum para venda? 
+
+-  Qual foi o plano de anúncio mais utilizado e qual deles gera mais conversões (vendas/aluguéis)? 
+
+-   Qual é a forma de pagamento mais comum para a compra de imóveis? 
 ---
 
 ---
-##  презентация проекта 🎨
+##  Apresentação 🎨
 
 A análise completa dos dados e os insights gerados foram compilados em uma apresentação visual no Canva. Abaixo está uma prévia do resultado final:
 
 <p align="center">
-  <a href="LINK_PARA_SUA_APRESENTACAO_COMPLETA" target="_blank">
+  <a href="https://www.canva.com/design/DAGx9Cn7hrg/AGNVKajCnK5-a5M0JpjcXQ/view?utm_content=DAGx9Cn7hrg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08244fb192" target="_blank">
     <img src="./assets/imobi_dash.jpg" alt="Slide da apresentação final do projeto" width="700">
   </a>
 </p>
