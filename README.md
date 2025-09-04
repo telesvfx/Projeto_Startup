@@ -25,7 +25,7 @@ O projeto foi desenvolvido com o objetivo de aplicar conceitos de **modelagem de
 
 Os dashboards foram desenvolvidos para responder a questões estratégicas, como:  
 
-- Qual o tipo de imóvel mais vendido, mais alugado e o que permanece mais tempo disponível?  
+- Qual o tipo de imóvel mais vendido?  
 - Qual região da cidade concentra os imóveis com maior valor médio?  
 - Qual corretor gerou o maior volume de receita em vendas e aluguéis?  
 - Qual o perfil de imóvel mais comum para venda (ex.: quantidade de quartos)?  
